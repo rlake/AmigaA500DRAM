@@ -2,9 +2,147 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid 2685d919-f003-48e0-bdb9-91a216e6598b)
+	(uuid "2685d919-f003-48e0-bdb9-91a216e6598b")
 	(paper "A4")
 	(lib_symbols)
+	(sheet
+		(at 127 88.9)
+		(size 25.4 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "30af403e-b4b2-4d70-9835-a21985fde3c3")
+		(property "Sheetname" "Logic"
+			(at 127 88.1884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "logic.kicad_sch"
+			(at 127 93.2946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AmigaA500DRAM"
+				(path "/2685d919-f003-48e0-bdb9-91a216e6598b"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 76.2)
+		(size 25.4 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a638bf2f-feb2-421f-b6d1-5d4465711e06")
+		(property "Sheetname" "IO"
+			(at 127 75.4884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "io.kicad_sch"
+			(at 127 80.5946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AmigaA500DRAM"
+				(path "/2685d919-f003-48e0-bdb9-91a216e6598b"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 101.6)
+		(size 25.4 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "fc4694b7-e053-4d6b-b636-c7998a44f8c8")
+		(property "Sheetname" "Power"
+			(at 127 100.8884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 127 105.9946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AmigaA500DRAM"
+				(path "/2685d919-f003-48e0-bdb9-91a216e6598b"
+					(page "4")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
