@@ -180,6 +180,16 @@
 				)
 			)
 		)
+		(property "LCSC" "C706471"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "c874954e-40d2-446c-a424-e02937bce457")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property ki_fp_filters "DIP* SOIC* R*Array*Concave* R*Array*Convex* MSOP*")
 		(path "/a638bf2f-feb2-421f-b6d1-5d4465711e06/e441c6fb-a551-4118-872f-9b9354717c0a")
 		(sheetname "/IO/")
@@ -447,6 +457,16 @@
 				(font
 					(size 1 1)
 					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C7666"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "431fb9e4-6949-4bc0-8283-fab06611a4b1")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -849,6 +869,16 @@
 				)
 			)
 		)
+		(property "LCSC" "C49678"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "b635a98a-7fd1-499e-99d4-c6b76912161d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fc4694b7-e053-4d6b-b636-c7998a44f8c8/41f90488-41bd-43e7-82bb-429279006129")
 		(sheetname "/Power/")
@@ -1020,7 +1050,7 @@
 				)
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 5.19 10.495)
@@ -1841,6 +1871,16 @@
 				)
 			)
 		)
+		(property "LCSC" "C49678"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "f08f1812-865e-4f1e-8f76-317ab410fb18")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fc4694b7-e053-4d6b-b636-c7998a44f8c8/ae33d52c-1619-4865-92de-1ce951ba75a2")
 		(sheetname "/Power/")
@@ -1996,6 +2036,16 @@
 				(font
 					(size 1 1)
 					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C49678"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "c47d0225-9cc5-462a-ac2d-f4e1353a1b64")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -2157,6 +2207,16 @@
 				)
 			)
 		)
+		(property "LCSC" "C49678"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "ee1b404c-2bdd-4bf8-85dd-4b801a4a009a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fc4694b7-e053-4d6b-b636-c7998a44f8c8/50c6b866-7a84-4298-ac5c-d3870319239d")
 		(sheetname "/Power/")
@@ -2312,6 +2372,16 @@
 				(font
 					(size 1 1)
 					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C49678"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "bc162172-ccee-41d6-a997-c15013cf9747")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -2473,6 +2543,16 @@
 				)
 			)
 		)
+		(property "LCSC" "C49678"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "c38654db-0e31-4aaf-a559-bc5b46b435b1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fc4694b7-e053-4d6b-b636-c7998a44f8c8/5a7d48da-045a-4fb2-9788-a1351ba4e031")
 		(sheetname "/Power/")
@@ -2620,6 +2700,16 @@
 				(font
 					(size 1.27 1.27)
 					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C706471"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "e08e972c-6de5-4035-adbf-4be474ca1074")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -2896,7 +2986,7 @@
 			)
 		)
 		(zone_connect 1)
-		(attr exclude_from_bom allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -3194,6 +3284,16 @@
 				)
 			)
 		)
+		(property "LCSC" "C49678"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "b6ba9ba3-bf94-4b35-86b5-e64f93870053")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fc4694b7-e053-4d6b-b636-c7998a44f8c8/ecaacfd5-8185-4472-96b6-24d59a1c9763")
 		(sheetname "/Power/")
@@ -3349,6 +3449,16 @@
 				(font
 					(size 1 1)
 					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C27643"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "1a7c4fd8-83fe-4cce-9ed0-e0b9b6b8ee01")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -3856,6 +3966,16 @@
 				)
 			)
 		)
+		(property "LCSC" "C28323"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "7d558fdd-5c66-4027-9fce-ce3233c0de82")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fc4694b7-e053-4d6b-b636-c7998a44f8c8/7c934510-c6ca-49db-a94c-2c6436434183")
 		(sheetname "/Power/")
@@ -4011,6 +4131,16 @@
 				(font
 					(size 1 1)
 					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C7668"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "98aafa5c-b304-4bc7-9a73-42e076482de3")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -4470,6 +4600,16 @@
 				)
 			)
 		)
+		(property "LCSC" "C706471"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "634609be-3029-43b4-bcba-10a625aecbee")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property ki_fp_filters "DIP* SOIC* R*Array*Concave* R*Array*Convex* MSOP*")
 		(path "/a638bf2f-feb2-421f-b6d1-5d4465711e06/bace98a7-eed7-4e58-8e82-7bf2251fdd8b")
 		(sheetname "/IO/")
@@ -4729,6 +4869,16 @@
 				(font
 					(size 1.27 1.27)
 					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C15578"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "a3653e12-15eb-4aed-b921-bac20ab1f7ab")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -5004,6 +5154,16 @@
 				)
 			)
 		)
+		(property "LCSC" "C706471"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "085764f0-1df9-428f-ae8e-da351c8491aa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property ki_fp_filters "DIP* SOIC* R*Array*Concave* R*Array*Convex* MSOP*")
 		(path "/a638bf2f-feb2-421f-b6d1-5d4465711e06/18b382de-15f4-4489-8860-08e93149bf06")
 		(sheetname "/IO/")
@@ -5271,6 +5431,16 @@
 				(font
 					(size 1 1)
 					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C76555"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "9be80331-903e-4ec6-88e5-4248f066c1dd")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -5636,6 +5806,16 @@
 				)
 			)
 		)
+		(property "LCSC" "C49678"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "bbfb3a9e-c7cc-4145-9dd6-9ea8d4db307f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fc4694b7-e053-4d6b-b636-c7998a44f8c8/8d07ac83-b3ad-4b61-b4a7-29e452244c4c")
 		(sheetname "/Power/")
@@ -5792,6 +5972,16 @@
 				(font
 					(size 1 1)
 					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C27643"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "9da1a746-0c57-471c-b893-6f9afaa97fe9")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -6291,6 +6481,16 @@
 				)
 			)
 		)
+		(property "LCSC" "C706471"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "bc4a7092-caf9-4a73-853b-4d2b2ddf5c4c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property ki_fp_filters "DIP* SOIC* R*Array*Concave* R*Array*Convex* MSOP*")
 		(path "/a638bf2f-feb2-421f-b6d1-5d4465711e06/475a88cb-6179-488a-b502-f7cdaec2a655")
 		(sheetname "/IO/")
@@ -6561,6 +6761,16 @@
 				)
 			)
 		)
+		(property "LCSC" "C49678"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "8be76b0b-aec4-4320-be29-6ed3ef254d60")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fc4694b7-e053-4d6b-b636-c7998a44f8c8/f1b6f316-61f7-422f-abc6-fdeba7a1322f")
 		(sheetname "/Power/")
@@ -6708,6 +6918,16 @@
 				(font
 					(size 1.27 1.27)
 					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C706471"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "23e0fad5-8024-4d5a-a74d-4d368b5c464a")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -6981,6 +7201,16 @@
 				)
 			)
 		)
+		(property "LCSC" "C17414"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "a6a38d39-9e59-44c7-8a36-93eb33b6ad1e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a638bf2f-feb2-421f-b6d1-5d4465711e06/23f93826-f40f-4b70-92ed-9438eedfd325")
 		(sheetname "/IO/")
@@ -7136,6 +7366,16 @@
 				(font
 					(size 1 1)
 					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C76555"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "ee941afa-c0cf-43e4-b1a0-8758c0446629")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -7501,6 +7741,16 @@
 				)
 			)
 		)
+		(property "LCSC" "C28323"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "181a815a-12d4-406a-8b5d-35d92c674a44")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fc4694b7-e053-4d6b-b636-c7998a44f8c8/67b0edc4-e4b7-42eb-9ebf-3a8c550c0642")
 		(sheetname "/Power/")
@@ -7656,6 +7906,16 @@
 				(font
 					(size 1 1)
 					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C7668"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "56892ee8-c474-426a-aed2-186484d62f0c")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -8123,6 +8383,16 @@
 				)
 			)
 		)
+		(property "LCSC" "C49678"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "367329de-802d-49fc-bfbf-99184b2d76b6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fc4694b7-e053-4d6b-b636-c7998a44f8c8/4e00b778-3beb-4fb6-a52e-dab2b20fa139")
 		(sheetname "/Power/")
@@ -8278,6 +8548,16 @@
 				(font
 					(size 1 1)
 					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C49678"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "7587d287-bc77-4e77-a273-230f9ce11835")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -8439,6 +8719,16 @@
 				)
 			)
 		)
+		(property "LCSC" "C49678"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "9e4036fc-6b9b-4890-aef3-a9ae028ce14a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fc4694b7-e053-4d6b-b636-c7998a44f8c8/6182fcdd-f5c4-404d-930e-3103c671fa1f")
 		(sheetname "/Power/")
@@ -8594,6 +8884,16 @@
 				(font
 					(size 1 1)
 					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C49678"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "66c889bb-7249-4f5b-ab71-64fd268df5ad")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -8759,7 +9059,7 @@
 				)
 			)
 		)
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -12.63 -1.33)
@@ -12053,6 +12353,16 @@
 				)
 			)
 		)
+		(property "LCSC" "C49678"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "194c560d-3ecb-4dec-a62a-4e143e724cb5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fc4694b7-e053-4d6b-b636-c7998a44f8c8/52a336f1-30b5-4f84-80cb-5378e282fff8")
 		(sheetname "/Power/")
@@ -12208,6 +12518,16 @@
 				(font
 					(size 1 1)
 					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17414"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "cb666616-ba85-4a07-ad39-60cb8fce9d46")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -12372,7 +12692,7 @@
 			)
 		)
 		(zone_connect 1)
-		(attr exclude_from_bom allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -12712,7 +13032,7 @@
 			)
 		)
 		(zone_connect 1)
-		(attr exclude_from_bom allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -13046,6 +13366,16 @@
 				(font
 					(size 1 1)
 					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C7803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "8c084104-2bf3-47c1-82ac-81501b6ed70a")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
